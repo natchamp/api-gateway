@@ -1,2 +1,2 @@
-# zuul-api-gateway-server
-Zuul API Gateway Server
+# api-gateway-server
+API Gateway Server
